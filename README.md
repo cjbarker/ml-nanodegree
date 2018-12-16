@@ -6,5 +6,4 @@ This repository provides all the work for [CJ Barker](https://cjbarker.com) rega
 Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.udacity.com/legal/community-guidelines) are subjected to this repo.
 
 ## Course Sections
-==================
 * Practice Project: [Predict Survival Outcomes of the Titantic](./titanic-survival-outcomes)
