@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import argparse
 import sys
 
 def print_title():
@@ -25,6 +26,10 @@ _/  |_|__|/  |______    ____ |__| ____
     """)
 
 if __name__ == "__main__":
-    print_title()
+    parser = argparse.ArgumentParser(description='Predict survival outcome of titanic passengers')
+    parser.add_argument('-n', action='store_true', help='no title displayed to STDOUT')
+    args = parser.parse_args()
+    if not args.n:
+        print_title()
     sys.exit(0)
 
