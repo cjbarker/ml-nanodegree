@@ -17,8 +17,6 @@ pip3 install -r requirements.txt
 jupyter notebook titanic_survival_exploration.ipynb
 ```
 
-## Run via Python
-```bash
-python titanic-survival.py
-```
+## Results
+Completed results have been exported from the Jupyter Notebook to [./titanic_survival_exploration.html](titanic_survival_exploration.html)
 
