@@ -12,5 +12,13 @@ Install necessary library dependencies first.
 ```bash
 pip3 install -r requirements.txt
 ```
-## Run
-TBD
+## Run via Jupyter Notebook
+```bash
+jupyter notebook titanic_survival_exploration.ipynb
+```
+
+## Run via Python
+```bash
+python titanic-survival.py
+```
+
