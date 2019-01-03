@@ -13725,7 +13725,7 @@ Think about the pros and cons of adding more training points based on if the tra
 <div class="text_cell_render border-box-sizing rendered_html">
 <p><strong>Answer: </strong></p>
 <ul>
-<li>The grid search technique uses various <strong>"hyperparameters"</strong> aka polynomial (max depth) degrees, which is external to the model &amp; cannot be estimated from data, to <strong>calculate the F1 score of each hyperparameter</strong>.  The results of the multiple hyperparameters' <strong>F1 score are inserted into a table</strong> where the best score is selected.  The table and process of looking for the best score is known as the grid search.  The optimal results are measured as a score (ex: R2 or F1 metrics).  </li>
+<li>The grid search technique uses various <strong>"hyperparameters"</strong> aka polynomial (max depth) degrees, which is external to the model &amp; cannot be estimated from data, to <strong>calculate the F1 score of each hyperparameter</strong>.  The results of the multiple hyperparameters' <strong>score are inserted into a table</strong> where the best score is selected.  The table and process of looking for the best score is known as the grid search.  The optimal results are measured as a score such as F1 or R2 metrics.  What score metric used depends on the what result you want to measure in the model(s) (ex: accurracy via F1 or regression via R2)</li>
 <li>Grid search can be applied to optimize or tune a learning algorithm.  It allows for multiple degrees to be explored and the results validated (compared) against each other to cross-validate the results via the exhausted search across parameters.  Hyperparameters can continually be explored and the model can be tuned to optimally solve the machine learning problem.  An <strong>example of a hyperparmeters that can be optimized</strong>for each model using the Grid Search estimator <strong>include C, kernel, and gamma for SVM and alpha for Lasso</strong>.  </li>
 <li>The <strong>Grid Search allows for exploring copious combinations based on the setting(s) of the hyperparameter(s)</strong> and evaluate the best result in a relatively quick, efficient manner.  Without the grid search this would be a very long, laborious manual effort to determine the model (best estimator) with the optimal results.</li>
 </ul>
@@ -13789,7 +13789,7 @@ Think about the pros and cons of adding more training points based on if the tra
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[12]:</div>
+<div class="prompt input_prompt">In&nbsp;[16]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="kn">from</span> <span class="nn">sklearn.metrics</span> <span class="k">import</span> <span class="n">make_scorer</span>
@@ -13844,7 +13844,7 @@ Think about the pros and cons of adding more training points based on if the tra
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[13]:</div>
+<div class="prompt input_prompt">In&nbsp;[17]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Fit the training data to the model using grid search</span>
@@ -13934,7 +13934,7 @@ Think about the pros and cons of adding more training points based on if the tra
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[14]:</div>
+<div class="prompt input_prompt">In&nbsp;[18]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Produce a matrix for client data</span>
@@ -14013,7 +14013,7 @@ Predicted selling price for Client 3&#39;s home: $946,527.27
 </div>
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
-<div class="prompt input_prompt">In&nbsp;[15]:</div>
+<div class="prompt input_prompt">In&nbsp;[19]:</div>
 <div class="inner_cell">
     <div class="input_area">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="n">vs</span><span class="o">.</span><span class="n">PredictTrials</span><span class="p">(</span><span class="n">features</span><span class="p">,</span> <span class="n">prices</span><span class="p">,</span> <span class="n">fit_model</span><span class="p">,</span> <span class="n">client_data</span><span class="p">)</span>
