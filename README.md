@@ -1,5 +1,7 @@
 # ml-nanodegree
 
+![Udacity Machine Learning Icon][./ml-icon.png]
+
 ## [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 This repository provides all the work for [CJ Barker](https://cjbarker.com) regarding the Udacity Machine Learning Nanodegree.  
 
