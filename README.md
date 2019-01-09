@@ -8,3 +8,4 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 ## Course Sections
 * Practice Project: [Predict Survival Outcomes of the Titantic](./titanic-survival-outcomes)
 * Project 1: [Predicting Boston Housing Prices](./boston-housing)
+* Project 2: [Finding Charity Donors](./finding_donors)
