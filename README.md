@@ -1,8 +1,6 @@
 # ml-nanodegree
 
-<div style="text-align:center" markdown="1">
-![Udacity Machine Learning Icon](./ml-icon.png)
-</div>
+<img align="right" src="https://gitlab.com/cjbarker/ml-nanodegree/raw/master/ml-icon.png" alt="Udacity Machine Learning Icon">
 
 ## [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 This repository provides all the work for [CJ Barker](https://cjbarker.com) regarding the Udacity Machine Learning Nanodegree.  
