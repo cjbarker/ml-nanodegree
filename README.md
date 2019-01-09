@@ -1,6 +1,6 @@
 # ml-nanodegree
 
-## [Udacity Machine Learning Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
+<<<<<<< HEAD
 
 <img align="right" src="https://gitlab.com/cjbarker/ml-nanodegree/raw/master/ml-icon.png" alt="Udacity Machine Learning Icon">
 
