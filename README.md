@@ -13,6 +13,7 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * Practice Project: [Predict Survival Outcomes of the Titanic](./titanic-survival-outcomes)
 * Project 1: [Predicting Boston Housing Prices](./boston-housing)
 * Project 2: [Finding Donors for CharityML](./finding_donors)
+* Mini Project: [Clustering Movie Ratings](./clustering-movie-ratings)    
 
 ## References
 * [Udacity Machine Learning Nanodegree Course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
