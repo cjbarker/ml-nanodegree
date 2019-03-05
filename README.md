@@ -14,6 +14,10 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * Project 1: [Predicting Boston Housing Prices](./boston-housing)
 * Project 2: [Finding Donors for CharityML](./finding_donors)
 * Mini Project: [Clustering Movie Ratings](./clustering-movie-ratings)    
+* Mini Project: [Gaussian Mixture Models Cluster Validation](./gmm-cluster-validation)
+* Mini Project: [Principle Component Aanalysis](./pca-mini-project)
+* Mini Project: [Independent Component Analysis](./independent-component-analysis-lab)
+* Project 3: [Customer Segments](./customer-segments)    
 
 ## References
 * [Udacity Machine Learning Nanodegree Course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
