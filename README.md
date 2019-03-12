@@ -9,6 +9,8 @@ This repository provides all the work for [CJ Barker](https://cjbarker.com) rega
 Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.udacity.com/legal/community-guidelines) are subjected to this repo.
 
 ## Course Sections
+
+### Term 1
 * [Videos & Transcripts](./videos-and-transcripts)
 * Practice Project: [Predict Survival Outcomes of the Titanic](./titanic-survival-outcomes)
 * Project 1: [Predicting Boston Housing Prices](./boston-housing)
@@ -18,6 +20,9 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * Mini Project: [Principle Component Aanalysis](./pca-mini-project)
 * Mini Project: [Independent Component Analysis](./independent-component-analysis-lab)
 * Project 3: [Customer Segments](./customer-segments)    
+
+### Term 2
+* TBA
 
 ## References
 * [Udacity Machine Learning Nanodegree Course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
