@@ -11,7 +11,7 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 ## Course Sections
 
 ### Term 1
-* [Videos & Transcripts](./videos-and-transcripts)
+* [Videos & Transcripts](./videos-and-transcripts/term1/)
 * Practice Project: [Predict Survival Outcomes of the Titanic](./titanic-survival-outcomes)
 * Project 1: [Predicting Boston Housing Prices](./boston-housing)
 * Project 2: [Finding Donors for CharityML](./finding_donors)
