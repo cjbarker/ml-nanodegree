@@ -26,7 +26,7 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * [Videos & Transcripts](./videos-and-transcripts/term2/)
 
 ### Extracurricular: Deep Learning - Tensor Flow
-* TBA
+* Project 4: [Dog Breed Recognition](./dog-breed)
 
 ## References
 * [Udacity Machine Learning Nanodegree Course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
