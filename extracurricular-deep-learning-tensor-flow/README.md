@@ -35,3 +35,8 @@ docker pull tensorflow/tensorflow
 # Start a Jupyter notebook server 
 docker run -it -p 8888:8888 tensorflow/tensorflow
 ```
+
+## References
+* [Tutorials](https://www.tensorflow.org/tutorials)
+* [How-To Guides](https://www.tensorflow.org/guide) 
+* [Models & Datasets](https://www.tensorflow.org/resources/models-datasets)
