@@ -20,7 +20,7 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * Mini Project: [Principle Component Aanalysis](./pca-mini-project)
 * Mini Project: [Independent Component Analysis](./independent-component-analysis-lab)
 * Project 3: [Customer Segments](./customer-segments)    
-* [Extracurricular Deep Learning - TensorFlow](./extracurricular-deep-learning-tensor-flow)
+* Extracurricular: [Deep Learning via TensorFlow](./extracurricular-deep-learning-tensor-flow)
 
 ### Term 2
 * [Videos & Transcripts](./videos-and-transcripts/term2/)
