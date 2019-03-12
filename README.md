@@ -22,7 +22,7 @@ Existing terms of the [Udacity Honor Code and Community Guidelines](https://www.
 * Project 3: [Customer Segments](./customer-segments)    
 
 ### Term 2
-* TBA
+* [Videos & Transcripts](./videos-and-transcripts/term2/)
 
 ## References
 * [Udacity Machine Learning Nanodegree Course](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
